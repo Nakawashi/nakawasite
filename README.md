@@ -5,12 +5,12 @@ Je centralise ici mes quelques projets personnels. Si vous le souhaitez, vous po
 ## Version actuelle de Liquid Gear
 
 Afin de rendre sa maintenance plus simple, de donner de l'autonomie au clients pour les mises à jours et d'ajouter une partie "blog", nous avons décidé d'utiliser un CMS.
-[LE SITE](https://liquidgear.ch)
+--> [LE SITE](https://liquidgear.ch)
 
 ## Version 1 de Liquid Gear
 
 Mon premier site e-commerce et vrai projet. Réalisé à partir d'un template Bootstrap.
-[GITHUB REPOSITORY](https://github.com/Nakawashi/liquidgear_v1)
+--> [GITHUB REPOSITORY](https://github.com/Nakawashi/liquidgear_v1)
 
 ### Technologies utilisées
 - Bootstrap : template de base
