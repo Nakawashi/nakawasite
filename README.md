@@ -18,7 +18,8 @@ Afin de rendre sa maintenance plus simple, de donner de l'autonomie au clients p
 
 ## Site statique d'accupuncture
 
-A la demande d'une connaissance et d'après ses demandes de rendu visuel très précises, j'ai réalisé la première version de son site. A la main.
+A la demande d'une connaissance et d'après ses critères visuels très précises, j'ai réalisé la première version de son site.
+--> [Sur Github](https://github.com/Nakawashi/accupuncture)
 
 ### Technologies utilisées
 - Bootstrap
