@@ -1,29 +1,26 @@
 ## Bienvenue sur mon interface de projets web
 
-Je vous propose de découvrir mes quelques projets personnels de site web, afin de vous faire une idée de
+Je vous propose de découvrir mes quelques projets personnels de site web, afin de vous présenter les technologies que j'ai utilisé.
 
-You can use the [editor on GitHub](https://github.com/Nakawashi/nakawasite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Version 1 de Liquid Gear
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mon premier site e-commerce et vrai projet. Réalisé à partir d'un template Bootstrap. [Le site](https://github.com/Nakawashi/nakawasite/)
 
-### Markdown
+### Technologies utilisées
+- Bootstrap : template de base
+- HTML5 / CSS3 : personnaliser les styles
+- Javascript : sélection du client sur le choix du matériel désiré
+- Stripe : paiement
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Version actuelle de Liquid Gear
 
-```markdown
-Syntax highlighted code block
+Afin de rendre sa maintenance plus simple, de donner de l'autonomie au clients pour les mises à jours et d'ajouter une partie "blog", nous avons décidé d'utiliser un CMS. [Le site](https://liquidgear.ch)
 
-# Header 1
-## Header 2
-### Header 3
+## Site statique d'accupuncture
 
-- Bulleted
-- List
+A la demande d'une connaissance et d'après ses demandes de rendu visuel très précises, j'ai réalisé la première version de son site. A la main.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### Technologies utilisées
+- Bootstrap
+- HTML5 / CSS3 : personnaliser les styles
+- Balsamiq : maquette
