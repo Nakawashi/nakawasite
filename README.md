@@ -1,4 +1,4 @@
-## Bienvenue sur mon interface de projets web
+## Bienvenue sur la V1 de mon Portfolio !
 
 Je centralise ici mes quelques projets personnels. Si vous le souhaitez, vous pouvez voir les sites que j'ai pu réaliser pour apprendre les bases du développement web.
 
@@ -9,11 +9,11 @@ Afin de rendre sa maintenance plus simple, de donner de l'autonomie au clients p
 
 ## Version 1 de Liquid Gear
 
-Mon premier site e-commerce et vrai projet. Réalisé à partir d'un template Bootstrap.
+Mon premier site, e-commerce et vrai projet. Réalisé à partir d'un template Bootstrap.
 --> [GITHUB REPOSITORY](https://github.com/Nakawashi/liquidgear_v1)
 
 ### Technologies utilisées
-- Bootstrap : template de base
+- Bootstrap 3 : template de base
 - HTML5 / CSS3 : personnaliser les styles
 - Javascript : sélection du client sur le choix du matériel désiré
 - Stripe : paiement
@@ -24,6 +24,6 @@ Site vitrne fait comme exercice
 --> [GITHUB REPOSITORY](https://github.com/Nakawashi/accupuncture)
 
 ### Technologies utilisées
-- Bootstrap
+- Bootstrap 3
 - HTML5 / CSS3 : personnaliser les styles
 - Balsamiq : wireframe
