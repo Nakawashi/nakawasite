@@ -1,4 +1,4 @@
-## Bienvenue sur la V1 de mon Portfolio !
+## Bienvenue sur la V1 de mon Portfolio (V2 en construction)
 
 Je centralise ici mes quelques projets personnels. Si vous le souhaitez, vous pouvez voir les sites que j'ai pu réaliser pour apprendre les bases du développement web.
 
